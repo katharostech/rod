@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rod"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.54.0/core/fmt/trait.Display.html\" title=\"trait core::fmt::Display\">Display</a> for <a class=\"enum\" href=\"rod/store/enum.StoreError.html\" title=\"enum rod::store::StoreError\">StoreError</a>","synthetic":false,"types":["rod::store::StoreError"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

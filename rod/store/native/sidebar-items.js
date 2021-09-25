@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_default_store","Get the default native store"]],"struct":[["SimpleFsStore","Ultra-simple filesystem [`Store`] implementation that uses a separate file for each string key"]]});

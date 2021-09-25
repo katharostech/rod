@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rod"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.54.0/core/convert/trait.Into.html\" title=\"trait core::convert::Into\">Into</a>&lt;<a class=\"enum\" href=\"rod/graph/enum.Value.html\" title=\"enum rod::graph::Value\">Value</a>&gt; for &amp;<a class=\"struct\" href=\"rod/engine/struct.NodeProxy.html\" title=\"struct rod::engine::NodeProxy\">NodeProxy</a>","synthetic":false,"types":["rod::engine::NodeProxy"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

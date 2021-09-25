@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["DbIndex",""]],"struct":[["NodeProxy","A node loaded from the database with mutators that can be used to modify the node and synchronize it back to the database"],["Rod","The Rod engine, responsible for managing connections and performing the various database synchronization task"],["ValueRef",""]]});

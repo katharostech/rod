@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Value","A value represents the different data types that a field value can take"]],"mod":[["repr","Representations of the graph data structures used for serialization/deserialization"]],"struct":[["Field","A [`Field`] is a named item in a node"],["Node","[`Node`] is the core data structure in the data graph"]]});

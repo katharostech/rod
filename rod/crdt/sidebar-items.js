@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["LexicalCmp","Trait implemented by structs that can be lexically sorted"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["StoreError","An error that can occur in a [`Store`]"]],"fn":[["get_default_store","Get the default store implementation for the current platform"]],"mod":[["native","Store implementatons for native targets"]],"trait":[["Store","A [`Node`] storage interface"]]});

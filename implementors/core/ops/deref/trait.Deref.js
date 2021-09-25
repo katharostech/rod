@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["rod"] = [{"text":"impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/1.54.0/core/ops/deref/trait.Deref.html\" title=\"trait core::ops::deref::Deref\">Deref</a> for <a class=\"struct\" href=\"rod/engine/struct.ValueRef.html\" title=\"struct rod::engine::ValueRef\">ValueRef</a>&lt;'a&gt;","synthetic":false,"types":["rod::engine::ValueRef"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
